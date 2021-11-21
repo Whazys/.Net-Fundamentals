@@ -1,0 +1,15 @@
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\bin\Debug\net6.0\NetFundamentals.exe
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\bin\Debug\net6.0\NetFundamentals.deps.json
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\bin\Debug\net6.0\NetFundamentals.runtimeconfig.json
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\bin\Debug\net6.0\NetFundamentals.dll
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\bin\Debug\net6.0\ref\NetFundamentals.dll
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\bin\Debug\net6.0\NetFundamentals.pdb
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.csproj.AssemblyReference.cache
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.AssemblyInfoInputs.cache
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.AssemblyInfo.cs
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.dll
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\ref\NetFundamentals.dll
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.pdb
+C:\Users\RafaelSantosde\Desktop\Dev\.Net Fundamentals\Netfundamentals\obj\Debug\net6.0\NetFundamentals.genruntimeconfig.cache
