@@ -7,3 +7,4 @@
 02 - Preparando ambiente e aplicação no console.
 
 03 - Introdução C#: Conceito & Estrutura.
+(concluindo aula 05)
