@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RafaelSantosde\\Desktop\\Dev\\.Net Fundamentals\\FirstSteps-.Net\\EstruturaDoPrograma\\NetFundamentals\\NetFundamentals.csproj",
-      "projectName": "NetFundamentals",
-      "projectPath": "C:\\Users\\RafaelSantosde\\Desktop\\Dev\\.Net Fundamentals\\FirstSteps-.Net\\EstruturaDoPrograma\\NetFundamentals\\NetFundamentals.csproj",
+      "projectUniqueName": "C:\\Users\\RafaelSantosde\\Desktop\\Dev\\.Net Fundamentals\\firststeps-.net\\Revisao\\Revisao.csproj",
+      "projectName": "Revisao",
+      "projectPath": "C:\\Users\\RafaelSantosde\\Desktop\\Dev\\.Net Fundamentals\\firststeps-.net\\Revisao\\Revisao.csproj",
       "packagesPath": "C:\\Users\\RafaelSantosde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RafaelSantosde\\Desktop\\Dev\\.Net Fundamentals\\FirstSteps-.Net\\EstruturaDoPrograma\\NetFundamentals\\obj\\",
+      "outputPath": "C:\\Users\\RafaelSantosde\\Desktop\\Dev\\.Net Fundamentals\\firststeps-.net\\Revisao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RafaelSantosde\\AppData\\Roaming\\NuGet\\NuGet.Config"
